@@ -1,6 +1,5 @@
-Good by
 Good No
-
+readme
 By
 .
 Hello
